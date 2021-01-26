@@ -1,7 +1,11 @@
-/*
+/***************************************************
+* hello2function
+* --------------------------------------------------
 * hello2Function.cpp
-*
-*/
+* --------------------------------------------------
+* Description: hello2Function in C++
+* **************************************************/
+
 #include <iostream>
 using namespace std;
 int hello2Function(string name2)
