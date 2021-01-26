@@ -1,4 +1,4 @@
-// Author: Alan Vuong
+// Author: Alan Vuong and Justin Chiu
 // Description: Hello World in C++
 //=================== main =======================
 
